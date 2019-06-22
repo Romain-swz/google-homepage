@@ -75,6 +75,7 @@ padding-top: 150px;
     background: url(../google-homepage/images/googleloupe.png) no-repeat scroll 7px 13px,
                 url(../google-homepage/images/google_mic.png) no-repeat scroll 540px 14px ;  
     background-size: 24px 24px, 13px 20px;
+    padding-left: 35px;
 }
 
 
