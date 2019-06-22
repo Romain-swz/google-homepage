@@ -93,7 +93,7 @@ background-color: rgb(235, 226, 226);
 #perso {
 
     
-    margin-top: 25%;
+   
     margin-right: 15px;
     margin-bottom: 10px;
     border: 1px solid rgb(214,214,214);
@@ -107,6 +107,7 @@ background-color: rgb(235, 226, 226);
     padding-inline-end: 12px;
     padding-inline-start: 8px;
     font-size: 14px;
+    bottom: 0;
     
     
 }
